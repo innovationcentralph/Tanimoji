@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tanimoji")(type "KiCad")(uri "${KIPRJMOD}/ExternalComponents/tanimoji.kicad_sym")(options "")(descr ""))
+  (lib (name "DFR0299")(type "KiCad")(uri "${KIPRJMOD}/DFR0299/DFR0299.kicad_sym")(options "")(descr ""))
+  (lib (name "libs")(type "KiCad")(uri "${KIPRJMOD}/ExternalComponents/libs.kicad_sym")(options "")(descr ""))
+)
