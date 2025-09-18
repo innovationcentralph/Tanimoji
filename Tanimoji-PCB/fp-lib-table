@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "tanimoji")(type "KiCad")(uri "${KIPRJMOD}/ExternalComponents/tanimoji.pretty")(options "")(descr ""))
   (lib (name "DFR0299")(type "KiCad")(uri "${KIPRJMOD}/DFR0299.pretty")(options "")(descr ""))
+  (lib (name "mousbites")(type "KiCad")(uri "${KIPRJMOD}/Panelization.pretty-master")(options "")(descr ""))
 )
